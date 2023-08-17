@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyCalculator</string>
+    <string name="app_name">My Calculator</string>
     <string name="app_title">Calculator</string>
     <string name="enter_first_number">Enter first number</string>
     <string name="enter_second_number">Enter second number</string>
@@ -7,5 +7,6 @@
     <string name="multiply">*</string>
     <string name="subtract">-</string>
     <string name="divide">/</string>
+    <string name="result">Result</string>
 
 </resources>
